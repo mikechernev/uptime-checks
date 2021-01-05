@@ -7,10 +7,11 @@
 # Your changes will be overwritten when the template updates (daily)
 # Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
 
+
 name: Graphs CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
