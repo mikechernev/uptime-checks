@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.mikechernev.com",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "96.12%",
+    "uptime": "96.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.68%",
     "time": 188,
-    "timeDay": 109,
-    "timeWeek": 163,
-    "timeMonth": 176,
+    "timeDay": 209,
+    "timeWeek": 174,
+    "timeMonth": 178,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2022-01-02": 1159,
@@ -44,15 +44,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.81%",
     "time": 471,
-    "timeDay": 365,
-    "timeWeek": 419,
-    "timeMonth": 458,
+    "timeDay": 547,
+    "timeWeek": 442,
+    "timeMonth": 463,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2021-12-13": 66,
-      "2021-02-17": 960
+      "2021-12-13": 66
     }
   }
 ]
