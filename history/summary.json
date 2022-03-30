@@ -5,13 +5,13 @@
     "icon": "https://favicons.githubusercontent.com/www.mikechernev.com",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.68%",
     "time": 188,
-    "timeDay": 148,
+    "timeDay": 158,
     "timeWeek": 155,
     "timeMonth": 174,
     "timeYear": 191,
@@ -48,8 +48,8 @@
     "time": 469,
     "timeDay": 427,
     "timeWeek": 428,
-    "timeMonth": 437,
-    "timeYear": 467,
+    "timeMonth": 436,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2021-12-13": 66
     }
