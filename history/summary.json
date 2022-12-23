@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mikechernev.com.ico",
     "slug": "personal-website",
     "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "97.69%",
+    "uptimeDay": "20.99%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "96.83%",
     "time": 206,
-    "timeDay": 117,
-    "timeWeek": 142,
-    "timeMonth": 233,
+    "timeDay": 0,
+    "timeWeek": 152,
+    "timeMonth": 234,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-12-22": 0,
+      "2022-12-23": 27,
+      "2022-12-22": 1110,
       "2022-01-02": 1159,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
@@ -26,8 +27,7 @@
       "2021-12-27": 1440,
       "2021-12-26": 1440,
       "2021-12-25": 1440,
-      "2021-12-24": 1440,
-      "2021-12-23": 1440
+      "2021-12-24": 1440
     }
   },
   {
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 363,
-    "timeWeek": 577,
-    "timeMonth": 521,
-    "timeYear": 483,
+    "time": 481,
+    "timeDay": 783,
+    "timeWeek": 597,
+    "timeMonth": 531,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2022-05-06": 17
     }
