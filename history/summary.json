@@ -6,15 +6,15 @@
     "slug": "personal-website",
     "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "63.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "83.56%",
     "uptimeMonth": "96.22%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "97.28%",
     "time": 206,
-    "timeDay": 236,
-    "timeWeek": 185,
-    "timeMonth": 236,
-    "timeYear": 218,
+    "timeDay": 71,
+    "timeWeek": 170,
+    "timeMonth": 232,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2022-12-23": 547,
       "2022-12-22": 1110,
@@ -25,8 +25,7 @@
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
-      "2021-12-26": 1440,
-      "2021-12-25": 1440
+      "2021-12-26": 1440
     }
   },
   {
@@ -41,8 +40,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 367,
-    "timeWeek": 545,
+    "timeDay": 365,
+    "timeWeek": 538,
     "timeMonth": 520,
     "timeYear": 483,
     "dailyMinutesDown": {
