@@ -4,7 +4,7 @@
     "url": "https://www.mikechernev.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mikechernev.com.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 140,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-03-25": 1127,
       "2023-03-24": 1175,
       "2022-12-23": 547,
