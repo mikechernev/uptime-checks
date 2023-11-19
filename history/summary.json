@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 176,
-    "timeDay": 116,
-    "timeWeek": 137,
-    "timeMonth": 126,
+    "timeDay": 158,
+    "timeWeek": 134,
+    "timeMonth": 129,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2023-07-26": 16,
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/geekyplatypus.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
-    "timeDay": 459,
-    "timeWeek": 519,
+    "timeDay": 385,
+    "timeWeek": 497,
     "timeMonth": 479,
-    "timeYear": 499,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   }
 ]
