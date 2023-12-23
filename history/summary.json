@@ -5,21 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mikechernev.com.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.46%",
     "time": 170,
-    "timeDay": 113,
-    "timeWeek": 111,
+    "timeDay": 148,
+    "timeWeek": 112,
     "timeMonth": 128,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2023-07-26": 16,
       "2023-03-25": 1127,
-      "2023-03-24": 1175,
-      "2022-12-23": 547
+      "2023-03-24": 1175
     }
   },
   {
@@ -34,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 384,
-    "timeWeek": 448,
-    "timeMonth": 519,
-    "timeYear": 500,
+    "timeDay": 395,
+    "timeWeek": 437,
+    "timeMonth": 520,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   }
 ]
